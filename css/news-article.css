@@ -1,12 +1,12 @@
-h2.introduction{
+.introduction h2{
   color: #8e44ad;
   font-family: cursive;
   font-style: oblique;
 }
-p.introduction{
+.introduction p{
   color: #273746;
   font-family: fantasy;
 }
-img.introduction{
-  border: 10px #85c1e9;
+.introduction img{
+  border: 10px solid #85c1e9;
 }
