@@ -1,16 +1,16 @@
-h3.tropical{
+.tropical h3{
   color: #f7325e;
 }
-p.tropical{
+.tropical p{
   color: #7dc410;
 }
 .tropical{
   font-family: fantasy;
 }
-h3.popular{
+.popular h3{
   color: #f1948a;
 }
-p.popular{
+.popular p{
   color: #2ecc71;
 }
 .popular{
