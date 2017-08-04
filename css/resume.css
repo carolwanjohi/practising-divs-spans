@@ -39,6 +39,14 @@ h3 {
 
 .experience p {
   font-style: italic;
+  margin: auto;
+  width: 350px;
+}
+
+.additional-skills {
+  margin: auto;
+  width: 350px;
+  float: left;
 }
 
 .education p {
