@@ -1,39 +1,46 @@
-body{
+body {
   left: 10%;
   width: 80%;
-margin: auto;
+  margin: auto;
 }
+
 .details {
   margin: auto;
   text-align: center;
-
 }
-.details h1{
+
+.details h1 {
   color: #154360;
   -webkit-margin-before: 0.67em;
-    -webkit-margin-after: 0em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+  -webkit-margin-after: 0em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
 }
-.details ul{
+
+.details ul {
   font-size: 11px;
   -webkit-margin-before: 0em;
-    -webkit-margin-after: 0.5em;
-    -webkit-margin-start: 0px;
-    -webkit-margin-end: 0px;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
 }
-.details li{
+
+.details li {
   list-style-type: none;
 }
-h2{
+
+h2 {
   color: #1f618d;
 }
-h3{
+
+h3 {
   color: #2874a6;
 }
-.experience p{
+
+.experience p {
   font-style: italic;
 }
-.education p{
+
+.education p {
   font-style: italic;
 }
